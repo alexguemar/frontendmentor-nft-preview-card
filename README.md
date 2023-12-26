@@ -19,8 +19,8 @@ Users should be able to:
 
 ### 🔗 Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL - Github: [Add solution URL here](https://github.com/alexguemar/frontendmentor-nft-preview-card)
+- Live Site URL - Vercel: [Add live site URL here](https://frontendmentor-nft-preview-card-six.vercel.app/)
 
 ## 🚀 My process
 
@@ -54,7 +54,7 @@ This achievement is a reflection of collective effort and shared inspiration!
 
 ## 🤗 Do you have feedback for my project?
 
-I would love to receive feedback! I'm always looking to improve my skills. So, if there's anything you'd like to mention, please comment on the [Challenge at Frontendmentor](https://www.frontendmentor.io/).
+I would love to receive feedback! I'm always looking to improve my skills. So, if there's anything you'd like to mention, please comment on the [Challenge at Frontendmentor](https://www.frontendmentor.io/solutions/nft-preview-card-wIevA2vqwM).
 
 ---
 
