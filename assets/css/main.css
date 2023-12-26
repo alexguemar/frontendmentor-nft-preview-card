@@ -21,6 +21,8 @@ body {
   display: grid;
   place-items: center;
   font-family: "Outfit", sans-serif;
+  font-size: 1rem;
+  line-height: 26px;
 }
 
 img {
@@ -110,6 +112,8 @@ img {
 .card-value {
   display: flex;
   justify-content: space-between;
+  padding-bottom: 12px;
+  border-bottom: 1px solid var(--c-very-dark-blue-line);
 }
 
 .card-value p {
